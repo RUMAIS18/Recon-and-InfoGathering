@@ -27,7 +27,8 @@
 
     python dir_bruteforcer.py
 
-# update the word list
+# Examples 
+update the word list
 
 Enter domain or IP for WHOIS lookup: example.com
 
